@@ -8,10 +8,13 @@ Basic Hangman game. Try to guess the secret word before running out of tries.
 ![Start Screen]()
 
 ## Gameplay
-![Gameplay]()
+![Gameplay](https://github.com/RylekStaker/Programming-1-Final-Fallguy/blob/main/images/FallGuyGamePlay.png?raw=true)
 
-## End Screen
-![End Screen]()
+## Win Screen
+![Win Screen]()
+
+## Lose Screen
+![Lose Screem]()
 
 ## Class Diagram
 ![Class Diagram]()
