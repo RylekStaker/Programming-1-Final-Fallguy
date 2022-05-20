@@ -14,7 +14,7 @@ Basic Hangman game. Try to guess the secret word before running out of tries.
 ![Win Screen](https://github.com/RylekStaker/Programming-1-Final-Fallguy/blob/main/images/FallGuyWinScreen.png?raw=true)
 
 ## Lose Screen
-![Lose Screem]()
+![Lose Screem](https://github.com/RylekStaker/Programming-1-Final-Fallguy/blob/main/images/FallGuyLoseScreen.png?raw=true)
 
 ## Class Diagram
 ![Class Diagram]()
