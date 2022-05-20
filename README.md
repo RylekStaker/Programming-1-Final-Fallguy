@@ -5,7 +5,8 @@ Collaborators: Rylek Staker
 Basic Hangman game. Try to guess the secret word before running out of tries.
 
 ## Code Download
-<a id="raw-url" href="https://github.com/RylekStaker/Programming-1-Final-Fallguy/blob/a3467d3ba12bc2c07ec6785d80947058971e95ec/src/FallGuy.cpp">Click to Download</a>
+<a download="FallGuy.cpp" href="src/FallGuy.cpp" title="FallGuyGame">
+</a>
 
 ## Start Screen
 ![Start Screen](https://github.com/RylekStaker/Programming-1-Final-Fallguy/blob/main/images/FallGuyStartScreen.png?raw=true)
