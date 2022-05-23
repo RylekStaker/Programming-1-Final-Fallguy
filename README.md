@@ -1,5 +1,6 @@
 # Programming-1-Final
 Collaborators: Rylek Staker
+Completed Spring of 2022
 
 ## Fallguy
 Basic Hangman game. Try to guess the secret word before running out of tries.
